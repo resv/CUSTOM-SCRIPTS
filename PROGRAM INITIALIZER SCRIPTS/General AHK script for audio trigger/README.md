@@ -6,7 +6,7 @@ GitHub: Resv
 Email:Akim456@gmail.com
 
 
-This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">
+This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">AutoHotkey.com</a>
 
 Simple script that can be added to other scripts to trigger an audio to play for the duration then close once mp3 is finished.
 
