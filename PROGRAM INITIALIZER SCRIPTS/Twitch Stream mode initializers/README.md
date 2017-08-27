@@ -1,4 +1,4 @@
-# My personal group application opener for Twitch streaming.
+#Opening a set or programs for Twitch streaming
 By: Adam Kim
 
 GitHub: Resv
