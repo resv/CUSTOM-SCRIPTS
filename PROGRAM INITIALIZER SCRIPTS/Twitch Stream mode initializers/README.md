@@ -1,4 +1,4 @@
-# Opening a set of programs for Twitch streaming
+# OPENING A SET OF PROGRAMS FOR TWITCH STREAMING
 By: Adam Kim
 
 GitHub: Resv
