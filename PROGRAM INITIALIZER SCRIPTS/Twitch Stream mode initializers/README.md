@@ -1,4 +1,4 @@
-# CUSTOM HOTKEY SCRIPTS FOR CODING
+# My personal group application opener for Twitch streaming.
 By: Adam Kim
 
 GitHub: Resv
