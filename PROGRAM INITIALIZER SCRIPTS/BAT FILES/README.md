@@ -19,7 +19,7 @@ Instructions:
 1. Setup overheat protection in coretemp.exe to desired settings.
 2. The last setting would be to select the BAT file located where ever you saved the BAT file.
 3. Edit the BAT file to the mp3 file you want to play.
-4. edit the number after "/t" to change the amount of time you give the BAT & MP3 file before they self terminate.
+4. Edit the number after "/t" to change the amount of time you give the BAT & MP3 file before they self terminate.
 
 As I progress into working with more projects, I will be uploading more AHK scripts primarily for myself but anyone else are free to use and modify my code.
 

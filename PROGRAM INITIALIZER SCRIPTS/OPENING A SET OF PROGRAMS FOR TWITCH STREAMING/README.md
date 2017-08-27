@@ -11,13 +11,13 @@ This script requires AHK (autohotkey.exe) which can be downloaded here: <a href=
 Simple script that you can use to open a group of programs/windows at once and also play a mp3 notification when this script is triggered.
 
 Instructions:
-1. change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
+1. Change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
 
 2. On the run line, replace with the address with your mp3.
 
-3. on the WincloseIn line, replace the first element with the amount of milliseconds you want the audio file to play before it terminates. (Wrap in quotations).
+3. On the WincloseIn line, replace the first element with the amount of milliseconds you want the audio file to play before it terminates. (Wrap in quotations).
 
-4. on the next run lines, just replace the addresses with specific programs you want to open.
+4. On the next run lines, just replace the addresses with specific programs you want to open. You can add as many runlines as you want.
 
 That's it!
 
