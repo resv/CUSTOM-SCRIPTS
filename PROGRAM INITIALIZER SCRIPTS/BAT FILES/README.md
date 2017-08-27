@@ -3,11 +3,11 @@ By: Adam Kim
 
 GitHub: Resv
 
-Email:Akim456@gmail.com
+Email: Akim456@gmail.com
 
 
-This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">
-In conjunction, this BAT file was primarily coded to work with coretemp.exe which can be downloaded here: <a href="http://www.alcpu.com/CoreTemp/">
+This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">https://autohotkey.com</a>
+In conjunction, this BAT file was primarily coded to work with coretemp.exe which can be downloaded here: <a href="http://www.alcpu.com/CoreTemp/">http://www.alcpu.com/CoreTemp/</a>
 
 This is a simple script written by me to execute the BAT file if automatic over heat protection is triggered via coretemp.exe.
 The BAT file will execute a mp3 to give you an audio warning. The audio warning I used was a custom text to speech audio then converted to an mp3 file the BAT file will recognize.

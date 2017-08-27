@@ -3,7 +3,7 @@ By: Adam Kim
 
 GitHub: Resv
 
-Email:Akim456@gmail.com
+Email: Akim456@gmail.com
 
 
 This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">AutoHotkey.com</a>
@@ -11,13 +11,13 @@ This script requires AHK (autohotkey.exe) which can be downloaded here: <a href=
 Simple script that can be added to other scripts to trigger an audio to play for the duration then close once mp3 is finished.
 
 Instructions:
-1. change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" inbetween. Such as: "^ & F1" or "Lshift & F1")
+1. change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
 
 2. On the run line, replace with the address with your mp3.
 
 3. on the WincloseIn line, replace the first element with the amount of milliseconds you want the audio file to play before it terminates. (Wrap in quotations).
 
-Thats it!
+That's it!
 
 As I progress into working with more projects, I will be uploading more AHK scripts primarily for myself but anyone else are free to use and modify my code.
 
