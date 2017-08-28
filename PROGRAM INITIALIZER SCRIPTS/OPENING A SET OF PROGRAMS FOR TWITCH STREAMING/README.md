@@ -13,11 +13,13 @@ Simple script that you can use to open a group of programs/windows at once and a
 Instructions:
 1. Change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
 
-2. On the run line, replace with the address with your mp3.
+2. On the first run line, you can replace the local audio address to what ever audio file you want to play. Not all computers support mp3 codec so you may need to convert the mp3 to wav file.
 
-3. On the WincloseIn line, replace the first element with the amount of milliseconds you want the audio file to play before it terminates. (Wrap in quotations).
+3. The second run line opens OBS studio which was very tricky to locate. It needs to open the DIR so you can copy and paste my address as long as you had a default installation.
 
-4. On the next run lines, just replace the addresses with specific programs you want to open. You can add as many runlines as you want.
+4. The third and fourth run line opens two twitch chat windows on seperate chrome instances for my page which you can change to your twitch page and also reduce it to one page.
+
+5. Feel free to add as many run lines to open your specific programs. 
 
 That's it!
 
