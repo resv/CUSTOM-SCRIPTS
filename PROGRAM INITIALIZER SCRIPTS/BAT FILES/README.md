@@ -5,6 +5,9 @@ GitHub: Resv
 
 Email: Akim456@gmail.com
 
+**IMPORTANT**
+(This BAT file is now considered obsolete, please refer to <a href="x"></a> for the AHK to exe. file for coretemp to execute during overheat protection. This exe will allow
+the computer to play the audio file with out a CMD prompt opening and no WMP window popping up. It will play directly from the computer. Some computers do not have mp3 codec so you might have to convert the file into a wav.)
 
 This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">https://autohotkey.com</a>
 In conjunction, this BAT file was primarily coded to work with coretemp.exe which can be downloaded here: <a href="http://www.alcpu.com/CoreTemp/">http://www.alcpu.com/CoreTemp/</a>
