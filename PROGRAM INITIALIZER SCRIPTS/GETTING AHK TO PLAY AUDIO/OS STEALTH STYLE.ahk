@@ -1,4 +1,4 @@
-F1::
+F2::
   SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\StreamMode.mp3
   return
 
