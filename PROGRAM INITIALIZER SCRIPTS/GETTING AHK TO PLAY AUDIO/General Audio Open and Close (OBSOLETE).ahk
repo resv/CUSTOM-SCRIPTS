@@ -10,3 +10,6 @@ Winclose, %Title%
 }
 
 return
+
+
+;THIS IS CONSIDERED OBSOLETE as it force opens WMP's window inorder to play an audio file. Please refer to "OS STEALTH STYLE" for a better option.
