@@ -15,6 +15,7 @@
  run, https://play.google.com/music/listen?u=1#/home
 
 /* url=https://gitter.im/FreeCodeCamp/FreeCodeCamp  (replace this address to open up chrome on a new instance)
- run % "chrome.exe" ( winExist("ahk_class Chrome_WidgetWin_1") ? " --new-window " : " " ) url */
+ run % "chrome.exe" ( winExist("ahk_class Chrome_WidgetWin_1") ? " --new-window " : " " ) url
+*/
 
  return
