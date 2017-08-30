@@ -9,8 +9,3 @@
  run % "chrome.exe" ( winExist("ahk_class Chrome_WidgetWin_1") ? " --new-window " : " " ) url
  
  return
-
-
-
-
-Return
