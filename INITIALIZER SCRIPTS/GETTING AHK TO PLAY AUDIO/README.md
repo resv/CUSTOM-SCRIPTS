@@ -8,7 +8,7 @@ Email: Akim456@gmail.com
 
 This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">AutoHotkey.com</a>
 
-(OS STEALTH STYLE)
+[OS STEALTH STYLE]
 
 A simple script that can have your OS play an audio file in the background.
 
@@ -16,7 +16,7 @@ Instructions:
 1. Change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
 
 2. Simply replace the address of my mp3 to your local mp3 address.
-(Be advised that not all OS support mp3 codec, so you may need to convert to WAV to find a way for your conputer to support mp3.)
+(Be advised that not all OS support mp3 codec, so you may need to convert to WAV to find a way for your computer to support mp3.)
 
 That's it!
 
@@ -32,7 +32,7 @@ That's it!
 --------------------------------------------------------
 
 
-(GENERAL AUDIO OPEN AND CLOSE)
+[GENERAL AUDIO OPEN AND CLOSE] (OBSOLETE)
 
 Simple script that can be added to other scripts to trigger an audio to play for the duration then close once mp3 is finished.
 

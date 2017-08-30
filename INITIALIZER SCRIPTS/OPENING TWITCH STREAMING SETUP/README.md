@@ -17,9 +17,9 @@ Instructions:
 
 3. The second run line opens OBS studio which was very tricky to locate. It needs to open the DIR so you can copy and paste my address as long as you had a default installation.
 
-4. The third and fourth run line opens two twitch chat windows on seperate chrome instances for my page which you can change to your twitch page and also reduce it to one page.
+4. The third and fourth run line opens two twitch chat windows on separate chrome instances for my page which you can change to your twitch page and also reduce it to one page.
 
-5. Feel free to add as many run lines to open your specific programs. 
+5. Feel free to add as many run lines to open your specific programs.
 
 That's it!
 
