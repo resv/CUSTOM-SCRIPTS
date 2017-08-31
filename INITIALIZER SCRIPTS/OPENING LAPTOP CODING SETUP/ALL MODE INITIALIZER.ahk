@@ -1,6 +1,6 @@
 ﻿
 ^F1::
-  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\xxx.mp3
+  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\FCC Mode.mp3
    run, C:\Users\akim4\AppData\Local\atom\atom.exe
    run, C:\Users\akim4\AppData\Local\GitHubDesktop\GitHubDesktop.exe
 
@@ -21,7 +21,7 @@
 return
 
 ^F2::
-  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\xxx.mp3
+  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\DEV Mode.mp3
    run, C:\Users\akim4\AppData\Local\atom\atom.exe
    run, C:\Users\akim4\AppData\Local\GitHubDesktop\GitHubDesktop.exe
 
@@ -32,7 +32,7 @@ return
  return
 
 ^F3::
-  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\xxx.mp3
+  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\CS50 Mode.mp3
 
  run, https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/04d14ed5bcaf4d7fae80b6e0772fd1c7/?child=first
  Sleep, 100
