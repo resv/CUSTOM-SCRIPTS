@@ -1,5 +1,5 @@
 
-^F1::
+!F1::
   SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\Stream Mode.mp3
    run, "C:\Program Files (x86)\obs-studio\bin\64bit\obs64.exe", C:\Program Files (x86)\obs-studio\bin\64bit, , obsPID
    run, C:\Users\akim4\AppData\Local\Programs\streamlabels\StreamLabels.exe

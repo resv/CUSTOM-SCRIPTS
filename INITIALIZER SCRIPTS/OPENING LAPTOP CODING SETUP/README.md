@@ -8,7 +8,14 @@ Email: Akim456@gmail.com
 
 This script requires AHK (autohotkey.exe) which can be downloaded here: <a href="https://autohotkey.com">AutoHotkey.com</a>
 
-Simple script that you can use to open a group of programs/windows at once and also play a mp3 notification when this script is triggered. This is specifically made for my laptop setup on the go, depending on the hotkey you press, it will open the respective programs and websites.
+Simple script that you can use to open a group of programs/windows at once and also play a mp3 notification when this script is triggered. This is specifically made for my LAPTOP setup on the go, depending on the hotkey you press, it will open the respective programs and websites.
+
+
+LEGEND:
+F1 = FCC Mode (FreeCodeCamp)
+F2 = DEV Mode (Atom & Github Desktop)
+F3 = CS50 Mode (Harvard's CS50 course)
+
 
 Instructions:
 1. Change "F1" to desired hotkey, if you want two button hotkey, you can simply write them together like: "^F1" or "LshiftF1" (another alternative however if the latter doesn't work would be to include the "&" in between. Such as: "^ & F1" or "Lshift & F1")
