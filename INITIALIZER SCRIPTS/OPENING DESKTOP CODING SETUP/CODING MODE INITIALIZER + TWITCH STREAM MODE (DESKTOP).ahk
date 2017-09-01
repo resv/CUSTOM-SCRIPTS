@@ -59,6 +59,12 @@
 
  return
 
+;FCC HOTKEYS
+
+Run %A_AHKPath% "C:\Users\akim4\Google Drive\CODE\CUSTOM-HOTKEY-SCRIPTS\FCCNotes Hotkeys";
+return
+
+
 ;TWITCH STREAM MODE
 !F1::
   SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\Stream Mode.mp3
