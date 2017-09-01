@@ -10,6 +10,12 @@ This script requires AHK (autohotkey.exe) which can be downloaded here: https://
 
 This is a simple script written by me to automatically type out a long HTML/CSS tag with openings and closings.
 
+
+***THIS SCRIPT IS A PART OF A BIGGER SCRIPT***
+LAUNCHING FCC INITIALIZER WILL TRIGGER THIS AHK TO OPEN, GIVING THE USER ALL THE QUICK HOTKEYS THAT THIS SCRIPT WA S DESIGNED FOR.
+DO NOT DELETE THIS FILE. YOU SHOULD MODIFY THIS FILE TO YOUR NEEDS.
+
+
 Highly customizable to set any hot key, delays if needed, and any type of tag or input the user would like.
 
 As I progress into working with more projects, I will be uploading more AHK scripts primarily for myself but anyone else are free to use and modify my code.

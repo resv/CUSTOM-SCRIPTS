@@ -19,6 +19,11 @@
  run % "chrome.exe" ( winExist("ahk_class Chrome_WidgetWin_1") ? " --new-window " : " " ) url
 */
 
+;FCC HOTKEYS built into FCC mode
+
+Run, "C:\Users\akim4\Google Drive\CODE\CUSTOM-HOTKEY-SCRIPTS\FCCNotes Hotkeys\Highlighting Textarea LineBreak.ahk"
+return
+
  return
 
 
@@ -58,11 +63,6 @@
 */
 
  return
-
-;FCC HOTKEYS
-
-Run %A_AHKPath% "C:\Users\akim4\Google Drive\CODE\CUSTOM-HOTKEY-SCRIPTS\FCCNotes Hotkeys";
-return
 
 
 ;TWITCH STREAM MODE
