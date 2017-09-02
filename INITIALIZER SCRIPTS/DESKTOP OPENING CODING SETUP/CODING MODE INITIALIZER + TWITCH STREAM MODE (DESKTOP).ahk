@@ -9,7 +9,7 @@
  Sleep, 100
  run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\FCCNotes.html
  Sleep, 100
- run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\BOOSTRAP.html
+ run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\BOOTSTRAP.html
  Sleep, 100
  run, https://github.com/resv/FCCNotes
  Sleep, 100
