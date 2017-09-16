@@ -7,13 +7,7 @@
 
  run, https://www.freecodecamp.org/resv
  Sleep, 100
- run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\FCCNotes.html
- Sleep, 100
- run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\BOOTSTRAP.html
- Sleep, 100
- run, https://github.com/resv/FCCNotes
- Sleep, 100
- run, https://gitter.im/FreeCodeCamp/FreeCodeCamp
+ run, C:\Users\akim4\Google Drive\CODE\FCC-NOTES-SITE\HTMLcss.html
  Sleep, 100
  run, https://play.google.com/music/listen?u=1#/home
 
@@ -78,3 +72,24 @@ return
  run % "chrome.exe" ( winExist("ahk_class Chrome_WidgetWin_1") ? " --new-window " : " " ) url
 
  return
+
+
+
+;FCC MODE
+^F4::
+  SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\PORTFOLIO MODE.mp3
+   run, C:\Users\akim4\AppData\Local\atom\atom.exe
+   run, C:\Users\akim4\AppData\Local\GitHubDesktop\GitHubDesktop.exe
+
+ run, C:\Users\akim4\Google Drive\CODE\PORTFOLIO\HOME.html
+ Sleep, 100
+ run, https://play.google.com/music/listen?u=1#/home
+
+return
+
+;FCC HOTKEYS built into FCC mode
+
+Run, "C:\Users\akim4\Google Drive\CODE\CUSTOM-HOTKEY-SCRIPTS\FCCNotes Hotkeys\Highlighting Textarea LineBreak.ahk"
+return
+return
+
