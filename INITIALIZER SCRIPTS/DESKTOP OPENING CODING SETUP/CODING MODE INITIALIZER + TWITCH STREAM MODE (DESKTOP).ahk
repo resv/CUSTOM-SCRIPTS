@@ -75,7 +75,7 @@ return
 
 
 
-;FCC MODE
+;PORTFOLIO MODE
 ^F4::
   SoundPlay, C:\Users\akim4\Google Drive\notification ring tones sounds\PORTFOLIO MODE.mp3
    run, C:\Users\akim4\AppData\Local\atom\atom.exe
@@ -84,6 +84,10 @@ return
  run, C:\Users\akim4\Google Drive\CODE\PORTFOLIO\HOME.html
  Sleep, 100
  run, https://play.google.com/music/listen?u=1#/home
+ Sleep, 100
+ run, https://codepen.io/ThiagoFerreir4/pen/eNMxEp?editors=1100
+ Sleep, 100
+ run, https://imgur.com/a/HylsB
 
 return
 
@@ -92,4 +96,3 @@ return
 Run, "C:\Users\akim4\Google Drive\CODE\CUSTOM-HOTKEY-SCRIPTS\FCCNotes Hotkeys\Highlighting Textarea LineBreak.ahk"
 return
 return
-
