@@ -6,9 +6,9 @@
 
  run, https://www.freecodecamp.org/resv
  Sleep, 100
- run, C:\Users\akim4\Google Drive\CODE\FCCNotes\FCCNotes\FCCNotes.html
+ run, C:\Users\akim4\Google Drive\CODE\FCC-NOTES-SITE\HTMLcss.html
  Sleep, 100
- run, https://github.com/resv/FCCNotes
+ run, https://github.com/resv/FCC-NOTES-SITE
  Sleep, 100
  run, https://gitter.im/FreeCodeCamp/FreeCodeCamp
  Sleep, 100
